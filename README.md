@@ -1,6 +1,6 @@
 # 📝 Task Tracker CLI
 
-A simple Command Line Interface (CLI) application to manage your daily tasks — built with **Node.js** using only native modules. Add, update, delete, and track your tasks right from the terminal.
+A simple Command Line Interface (CLI) application to manage your daily tasks — built with **Node.js** using only native modules. Add, update, delete, and track your tasks right from the terminal. I coded this to practice and revise js and backend using roadmap.sh and their projects: https://roadmap.sh/projects/task-tracker. A great resource
 
 ---
 
